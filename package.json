@@ -1,6 +1,6 @@
 {
   "name": "sowpods-trie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Trie datastructure for the SOWPODS dictionary",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   ],
   "author": "Björn Söderqvist",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "sowpods": "^1.1.0"
   }
 }
